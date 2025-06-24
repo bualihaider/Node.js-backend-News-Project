@@ -1,2 +1,8 @@
-# Node.js-backend-News-Project
-Using NodeJS along with express to design a backend which will serve the requests of the app. The backend will also load the mongo database with latest news using mongoose framework.
+# NodeJS-Backend (API & Database System)
+## Entire News (Android News App)
+
+### Read [Readme]
+### Read [Software Requirements Specification] (WiKi)
+
+[Software Requirements Specification]: <https://github.com/EntireNewsProject/Android-App/wiki>
+[Readme]: <https://github.com/EntireNewsProject/Android-App/blob/master/README.md>
